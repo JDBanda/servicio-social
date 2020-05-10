@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestAPICamara</string>
+    <string name="request_json_array">Request JSON Array</string>
+</resources>
